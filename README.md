@@ -16,7 +16,7 @@
 
   
   ## Description
-  Welcome! 
+  Personal portfolio built with React. This clean and responsive user interface showcases my personal and team-built projects, a little bit about myself, and the skills that have led me to build unique applications.
   
   ## Demo
 
