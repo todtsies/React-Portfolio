@@ -1,0 +1,28 @@
+.about-me {
+    background-color: var(--clr-dark);
+    color: var(--clr-light);
+    text-align: center;
+}
+
+.section-title-about {
+    color: var(--clr-light);
+    position: relative;
+    margin-bottom: -20px;
+    margin-left: 35px; 
+}
+.section-title-about::after {
+    content: '';
+    display: block;
+    width: 200px;
+    height: 1px;
+    margin: 0.5em auto 1em auto;
+    background: var(--clr-light);
+    opacity: 0.25;
+}
+
+.section-subtitle-about {
+    margin-top: 5px;
+    color: black;
+    display: inline-block;
+    
+}
