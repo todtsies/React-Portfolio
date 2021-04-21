@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.cf8e2fc2.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.83f2fa3d.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.83f2fa3d.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.72e2eb81.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.72e2eb81.js.map",
+    "static/js/2.02a1f45f.chunk.js": "/React-Portfolio/static/js/2.02a1f45f.chunk.js",
+    "static/js/2.02a1f45f.chunk.js.map": "/React-Portfolio/static/js/2.02a1f45f.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.cf8e2fc2.chunk.css.map": "/React-Portfolio/static/css/main.cf8e2fc2.chunk.css.map",
+    "static/js/2.02a1f45f.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.02a1f45f.chunk.js.LICENSE.txt",
+    "static/media/CodingQuiz.f11fb0d1.gif": "/React-Portfolio/static/media/CodingQuiz.f11fb0d1.gif",
+    "static/media/Eat-da-burger.d583d330.gif": "/React-Portfolio/static/media/Eat-da-burger.d583d330.gif",
+    "static/media/FooBarFinder.29d02378.gif": "/React-Portfolio/static/media/FooBarFinder.29d02378.gif",
+    "static/media/Note-Taker1.33d09083.gif": "/React-Portfolio/static/media/Note-Taker1.33d09083.gif",
+    "static/media/PasswordGenerator.67e97562.gif": "/React-Portfolio/static/media/PasswordGenerator.67e97562.gif",
+    "static/media/Resume.07280cf9.pdf": "/React-Portfolio/static/media/Resume.07280cf9.pdf",
+    "static/media/WorkDayScheduler.319d52ad.gif": "/React-Portfolio/static/media/WorkDayScheduler.319d52ad.gif",
+    "static/media/picOfMe.07c9cd23.jpg": "/React-Portfolio/static/media/picOfMe.07c9cd23.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e2eb81.js",
+    "static/js/2.02a1f45f.chunk.js",
+    "static/css/main.cf8e2fc2.chunk.css",
+    "static/js/main.83f2fa3d.chunk.js"
+  ]
+}
