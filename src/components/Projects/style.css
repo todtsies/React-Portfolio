@@ -1,0 +1,15 @@
+.card-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.card {
+    margin-top: 25px;
+    border: 1.5px solid var(--clr-dark);
+}
+
+@media (min-width: 615px) {
+    .card-container {
+        justify-content: center;
+    }
+}
