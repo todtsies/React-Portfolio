@@ -20,13 +20,13 @@
   
   ## Demo
 
-  ![Application Preview](assets/Todt-alDeveloper.gif)
+  ![Application Preview](src/assets/Todt-alDeveloper.gif)
   
  
   ## Usage
   Future employers - please follow this link to learn more about me: 
   
-  https://todtsies.github.io/Portfolio/
+  https://todtsies.github.io/React-Portfolio/
 
   ## Contributors
   Emily B. Todt
@@ -41,7 +41,7 @@
       
 
   ## Technologies
-  HTML and CSS
+  React, HTML, CSS, Javascript, Bootstrap
 
   ## Questions
   Reach me on [GitHub](https://www.github.com/todtsies)  
