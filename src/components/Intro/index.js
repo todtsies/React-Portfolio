@@ -1,5 +1,6 @@
+/* eslint-disable no-useless-escape */
 import React from 'react';
-import ProfilePic from '../..assets/picOfMe.jpg';
+import ProfilePic from '../../assets/picOfMe.jpg';
 
 import './style.css';
 
@@ -10,7 +11,7 @@ function Intro() {
                 Hi, I'm <strong>Emily Todt</strong>
             </h1>
             <p className="section-subtitle section-subtitle-intro">Full Stack Developer</p>
-            <img src={ProfilePic} alt="me smiling" className="intro-image" />
+            <img src={ProfilePic} alt="me smiling" className="intro-image" /> 
         </section>
     );
 }

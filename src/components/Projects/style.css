@@ -1,11 +1,26 @@
 .card-container {
     margin-top: 20px;
-    text-align: center;
+    
 }
 
 .card {
     margin-top: 25px;
-    border: 1.5px solid var(--clr-dark);
+    border: 1.5px solid black;
+    
+    
+    
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.card-tech {
+    text-align: center;
 }
 
 @media (min-width: 615px) {

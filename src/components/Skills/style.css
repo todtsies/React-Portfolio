@@ -7,7 +7,7 @@
 .section-title-about {
     color: var(--clr-light);
     position: relative;
-    margin-bottom: -20px;
+    
     margin-left: 35px; 
 }
 .section-title-about::after {
@@ -25,4 +25,8 @@
     color: black;
     display: inline-block;
     
+}
+
+.section-subtitle {
+    margin-top: -50px;
 }

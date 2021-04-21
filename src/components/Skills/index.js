@@ -5,9 +5,9 @@ import './style.css';
 
 function Skills() {
     return (
-        <section className="about-me" id="about">
+        <section className="about-me" id="skills">
             <h2 className="section-title section-title-about mr-3 text-center">My Skills</h2>
-            <p className="section-subtitle section-subtitle-about">Seeking full-time software engineering employment</p>
+            <p className="section-subtitle section-subtitle-about mb-5">Seeking full-time software engineering employment</p>
 
             <div className="about-me-body">
                 <p>Coming into this bootcamp, I was nervous. Taking on a full set of skills that I really had no experience

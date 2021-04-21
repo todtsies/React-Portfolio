@@ -1,6 +1,7 @@
+/* eslint-disable no-useless-escape */
 /* eslint-disable react/jsx-no-target-blank */
 import React from 'react';
-import resume from '../..assets/Resume.pdf'
+import Resume from '../../assets/Resume.pdf';
 
 import './style.css';
 
@@ -9,7 +10,7 @@ function About() {
     return (
         <section className="about-me" id="about">
             <h2 className="section-title section-title-about text-center">About Me</h2>
-            <p className="section-subtitle section-subtitle-about">Designer and developer based in central Virginia</p>
+            <p className="section-subtitle section-subtitle-about mb-5">Designer and developer based in central Virginia</p>
 
             <div className="about-me-body">
                 <p>Growing up in central Virginia, I was able to experience many different professions. I've been a
@@ -28,12 +29,12 @@ function About() {
                 need to be.</p>
             </div>
 
-            <p>
-                <a href={resume} target="_blank" className="resume-btn btn text-center">
+             <p>
+                <a href={Resume} target="_blank" className="resume-btn btn text-center">
                     <i className="fa fa-download"></i>
                 Download Resume
             </a>
-            </p>
+            </p> 
         </section>
     );
 }

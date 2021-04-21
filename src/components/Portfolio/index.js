@@ -1,9 +1,10 @@
+/* eslint-disable no-useless-escape */
 import React from 'react';
 import Project from '../Projects';
 
 import './style.css';
 
-import { projectData } from '../..data';
+import projectData from '../../data';
 
 export default function Portfolio() {
     return (
@@ -14,7 +15,7 @@ export default function Portfolio() {
             </h2>
                 <hr />
                 <div class="card-container row" />
-                {projectData.map((project) => {
+                 {projectData.map((project) => {
                     return (
                         <Project
                             title={project.title}
@@ -25,7 +26,7 @@ export default function Portfolio() {
                             repo={project.repo}
                         />
                     );
-                })}
+                })} 
 
             </div>
         </section>

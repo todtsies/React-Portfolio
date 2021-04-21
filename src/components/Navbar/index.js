@@ -26,6 +26,9 @@ export default function Navbar() {
                         <a href="#work" className="nav-link">Projects</a>
                     </li>
                     <li className="nav-item">
+                        <a href="#skills" className="nav-link">My Skills</a>
+                    </li>
+                    <li className="nav-item">
                         <a href="#connect" className="nav-link">Contact Me</a>
                     </li>
                 </ul>
