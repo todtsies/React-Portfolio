@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-target-blank */
 import React from 'react';
 import resume from '../..assets/Resume.pdf'
 
@@ -28,7 +29,7 @@ function About() {
             </div>
 
             <p>
-                <a href={resume} className="resume-btn btn text-center">
+                <a href={resume} target="_blank" className="resume-btn btn text-center">
                     <i className="fa fa-download"></i>
                 Download Resume
             </a>
